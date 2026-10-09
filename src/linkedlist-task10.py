@@ -5,7 +5,6 @@ class StudentNode:
         self.gpa = gpa
         self.next = None
 
-
 class StudentList:
     def __init__(self):
         self.head = None
