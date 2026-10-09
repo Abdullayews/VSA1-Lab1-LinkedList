@@ -117,7 +117,7 @@ if __name__ == "__main__":
     # Tapşırıq 5
     l = LinkedList()
     for v in [10, 20, 30, 40, 50]:
-        l.insert_at_end = l.insert_at_end(v)
+        l.insert_at_end(v)
     l.delete(30)
     l.display()
 
