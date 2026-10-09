@@ -1,7 +1,11 @@
 Name: Muhammad Abdullayev
+
 Group: KOM25A
+
 Laboratory Work 1
+
 Linked Lists
+
 Implemented operations:
 
 - Insert at beginning
