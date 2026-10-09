@@ -1,0 +1,1 @@
+# Lab1_Muh-mm-d-Abdullayev
